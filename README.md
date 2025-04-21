@@ -1,0 +1,1 @@
+Download master file library from https://github.com/wzucheng/Prediction-of-bacterial-transcription-factors/releases，Run in Python and enter the promoter sequence to get the transcription factors that may bind.
